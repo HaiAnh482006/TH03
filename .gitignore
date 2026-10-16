@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+build/
+app/build/
+local.properties
+.DS_Store
+.idea/
+.vscode/
+/captures
+.externalNativeBuild
+.cxx
+
+# Documents & non-code files
+*.docx
+*.doc
+*.pdf
+*.zip

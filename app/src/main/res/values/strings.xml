@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Đăng nhập</string>
+    <string name="login_header_desc">Ứng dụng Quản lý chi tiêu cá nhân</string>
+    <string name="username_label">Tên đăng nhập</string>
+    <string name="username_hint">Nhập tên đăng nhập</string>
+    <string name="password_label">Mật khẩu</string>
+    <string name="password_hint">Nhập mật khẩu</string>
+    <string name="login_btn">ĐĂNG NHẬP</string>
+    <string name="err_empty_input">Vui lòng nhập tên đăng nhập và mật khẩu</string>
+    <string name="err_invalid_credentials">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="login_success">Đăng nhập thành công!</string>
+    
+    <!-- Main Screen -->
+    <string name="main_title">Quản lý chi tiêu</string>
+    <string name="total_expense_label">Tổng chi tiêu:</string>
+    <string name="add_expense_btn">Thêm khoản chi</string>
+    <string name="empty_expense_list">Chưa có khoản chi tiêu nào.
+Nhấn nút thêm bên dưới để bắt đầu ghi chép.</string>
+    
+    <!-- Add Expense Screen -->
+    <string name="add_expense_title">Thêm khoản chi</string>
+    <string name="expense_name_label">Tên khoản chi</string>
+    <string name="expense_name_hint">Nhập tên khoản chi</string>
+    <string name="expense_amount_label">Số tiền</string>
+    <string name="expense_amount_hint">Nhập số tiền (đ)</string>
+    <string name="expense_category_label">Danh mục</string>
+    <string name="expense_date_label">Ngày chi tiêu</string>
+    <string name="expense_note_label">Ghi chú</string>
+    <string name="expense_note_hint">Nhập ghi chú (không bắt buộc)</string>
+    <string name="save_expense_btn">LƯU KHOẢN CHI</string>
+    <string name="err_empty_name">Tên khoản chi không được để trống</string>
+    <string name="err_invalid_amount">Số tiền phải lớn hơn 0</string>
+    <string name="msg_expense_added">Đã thêm khoản chi thành công!</string>
+    
+    <!-- Detail Screen -->
+    <string name="detail_title">Chi tiết khoản chi</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete">Xóa khoản chi</string>
+    <string name="confirm_delete_title">Xác nhận xóa khoản chi</string>
+    <string name="confirm_delete_msg">Bạn có chắc chắn muốn xóa khoản chi này khỏi danh sách không?</string>
+    <string name="btn_confirm">Đồng ý</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="msg_expense_deleted">Đã xóa khoản chi thành công!</string>
+    <string name="no_note">(Không có ghi chú)</string>
+</resources>
